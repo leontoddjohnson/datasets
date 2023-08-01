@@ -4,4 +4,4 @@ This repository serves to offer a collection of small datasets, for educational 
 
 ## list of datasets
 
-- ames ([documentation](https://jse.amstat.org/v19n3/decock/DataDocumentation.txt)https://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
+- [ames](./data/ames.csv) ([documentation](https://jse.amstat.org/v19n3/decock/DataDocumentation.txt))
