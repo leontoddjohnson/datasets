@@ -5,7 +5,7 @@ This repository serves to offer a collection of small datasets, for educational 
 To access most of these datasets, you can use the following URL:
 
 ```
-https://raw.githubusercontent.com/leontoddjohnson/datasets/<pathtofile>
+https://raw.githubusercontent.com/leontoddjohnson/datasets/main/<pathtofile>
 ```
 
 ## list of datasets
