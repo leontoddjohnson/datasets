@@ -30,7 +30,7 @@ Alternatively, below is a list of data repositories that tend to be pretty clean
 - [pudding.cool data](https://github.com/the-pudding/data) (used for articles on [pudding.cool](https://pudding.cool/))
   - If you use a Pudding dataset, try to illustrate something which is not already included in its corresponding pudding article
 - [FiveThirtyEight data repository](https://github.com/fivethirtyeight/data) (used for articles on their [website](https://fivethirtyeight.com/))
-- World Health Organization Data CollectionsLinks to an external site.
+- [World Health Organization Data Collections](https://www.who.int/data/collections)
   - Sometimes, getting to the data might take a bit of digging ...
 - [The World Bank Databases](https://databank.worldbank.org/databases) (use the below instructions to access the data)
   1. Select a database.
