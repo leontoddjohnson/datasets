@@ -27,6 +27,8 @@ Alternatively, below is a list of data repositories that tend to be pretty clean
 - [UCI Regression Datasets](https://archive.ics.uci.edu/datasets). To use these, you'll need to:
   1. Get the column names from the documentation on the main dataset page (or the *.names* file), and create a vector of those names *in order*.
   2. Use `read_delim` in R, setting the `file` to be the path to the *.data* file, and specifying `col_names` to be the column names vector from above. You may also need to adjust `delim` depending on what you see in the *.data* file (it could be a space, comma, semicolon, tab, etc.)
+- [pudding.cool data](https://github.com/the-pudding/data) (used for articles on [pudding.cool](https://pudding.cool/))
+  - If you use a Pudding dataset, try to illustrate something which is not already included in its corresponding pudding article
 - [FiveThirtyEight data repository](https://github.com/fivethirtyeight/data) (used for articles on their [website](https://fivethirtyeight.com/))
 - World Health Organization Data CollectionsLinks to an external site.
   - Sometimes, getting to the data might take a bit of digging ...
