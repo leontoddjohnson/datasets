@@ -6,7 +6,7 @@
 
 This dataset is simulated for the following hypothetical situation.
 
-**Background:**You've just been hired as a Pokémon researcher, and your assignment is to maintain a dataset of sightings from trainers worldwide. You expect future inputs may be duplicate entries, and there may be missing values or inconsistent formats. These sorts of entries can cause the system to crash, so you need to build a validation process for newly recieved data.
+**Background:** You've just been hired as a Pokémon researcher, and your assignment is to maintain a dataset of sightings from trainers worldwide. You expect future inputs may be duplicate entries, and there may be missing values or inconsistent formats. These sorts of entries can cause the system to crash, so you need to build a validation process for newly recieved data.
 
 **Objective:** Implement a system that validates new Pokémon entries, handling errors and ensuring all necessary information is present.
 
