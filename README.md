@@ -14,7 +14,6 @@ https://raw.githubusercontent.com/leontoddjohnson/datasets/main/<pathtofile>
 - [coffee](./data/coffee_analysis.csv) ([documentation](https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset/))
 - [titanic](./data/titanic.csv) ([documentation](https://www.kaggle.com/competitions/titanic/data))
 - [uk_retail](./data/uk_retail.csv) ([documentation](https://archive.ics.uci.edu/dataset/352/online+retail))
-- [covid_demographic](./data/covid_demographic.csv) ([documentation](https://data.cdc.gov/Public-Health-Surveillance/COVID-19-Weekly-Cases-and-Deaths-by-Age-Race-Ethni/hrdz-jaxc/about_data))
 
 # data repositories
 
