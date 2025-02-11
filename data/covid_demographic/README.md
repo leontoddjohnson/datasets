@@ -18,7 +18,7 @@ A few things to note about this data that are not immediately clear in the docum
 
 ```R
 url_ <- "https://raw.githubusercontent.com/leontoddjohnson/datasets/main/data/covid_demographic/covid_demographic.csv"
-marketing <- read_delim(url_, delim = ",")
+covid <- read_delim(url_, delim = ",")
 ```
 
 ## TODO
