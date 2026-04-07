@@ -1,10 +1,10 @@
 # Page Views (Time Series)
 
-> Current as of April 2024
+> Current as of April 2026
 
 ## Description
 
-This dataset was queried from the [Wikipedia Pageviews API](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2019-01-01&end=2024-04-01&pages=Time_series) (with the given settings).
+This dataset was queried from the [Wikipedia Pageviews API](https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2021-01-01&end=2026-04-06&pages=Time_series) (with the given settings).
 
 It is a daily time series of webpage views of the "Time Series" Wikipedia page over an approximately 5 year period.
 
